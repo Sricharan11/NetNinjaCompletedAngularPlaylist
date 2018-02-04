@@ -1,0 +1,25 @@
+[{
+	"name": "jin",
+	"belt": "blue",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/img/crystal.png"
+}, {
+	"name": "law",
+	"belt": "violet",
+	"rate": 69,
+	"available": true,
+	"thumb": "content/img/ryu.png"
+}, {
+	"name": "nina",
+	"belt": "red",
+	"rate": 32,
+	"available": true,
+	"thumb": "content/img/shaun.png"
+}, {
+	"name": "gunjack",
+	"belt": "green",
+	"rate": 89,
+	"available": true,
+	"thumb": "content/img/yoshi.png"
+}]
